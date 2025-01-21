@@ -16,16 +16,16 @@ global.setting = {
 global.info = {
  nomerbot : '212605784394',
  pairingNumber : '212605784394',
- figlet: 'silanalite', // create a start console display
+ figlet: 'snouar AI', // create a start console display
  nomorwa : '212605784394',
- nameown : 'NOUREDDINE',
+ nameown : 'Adam',
  nomerown : '212717457920',
  packname : 'sticker by ',
- author : 'SILANA AI',
- namebot : '乂 SILANA AI',
- wm : 'SILANA LITE.',
+ author : 'SNOUAR',
+ namebot : '乂 SNOUAR',
+ wm : 'SNOUAR LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SILANA LITE',
+ stickauth : 'SNOUAR LITE',
  jid: '@s.whatsapp.net'
 }
 

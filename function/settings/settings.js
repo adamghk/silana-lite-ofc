@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://www.instagram.com/adam_alaoui_09?igsh=N2Q2ZTJmMnlhNXVw',
+ sgh:  'https://www.instagram.com/adam_alaoui_09?igsh=N2Q2ZTJmMnlhNXVw',
+ sgc: 'https://whatsapp.com/channel/0029Vaa9FSx3WHTPYAIzdT0L'
 }
 // Donasi
 global.payment = {
